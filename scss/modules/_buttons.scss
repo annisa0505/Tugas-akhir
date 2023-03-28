@@ -1,0 +1,21 @@
+/* Buttons */
+
+.btn-primary{
+	@include add-background($primary-color);
+	@include add-border(2px, #ffffff, all);
+}
+.btn-navy{
+	@include add-background($navy-color);
+}
+
+.btn-grey{
+	@include add-background($gray-color);
+}
+.btn-light{
+	@include add-background($light-color);
+}
+
+.btn-primary:hover{
+	background:darken($primary-color,10%);
+	@include add-border(2px, #ffffff, all);
+}
