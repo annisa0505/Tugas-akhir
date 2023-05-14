@@ -22,23 +22,23 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="block block-light block-center block-image block-border">
-						<img src="img/obras.jpg">
+						<img src="img/obras.png">
 						<h3>Obras</h3>
-						<p> Harga : Rp 15.000 </p>
+						<p> Harga : Rp 15.000 - Rp 30.000</p>
 						<p> Estimasi : 2-3 Hari </p>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="block block-grey2 block-center block-image block-border">
-						<img src="img/tambal.jpg">
-						<h3>Perbaikan / Penambalan</h3>
-						<p> Harga : Rp 30.000 - Rp 50.000 </p>
+						<img src="img/tambal.png">
+						<h3>Penambalan</h3>
+						<p> Harga : Rp 12.000 - Rp 30.000 </p>
 						<p> Estimasi : 2-3 Hari </p>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="block block-light block-center block-image block-border">
-						<img src="img/kancing.jpg">
+						<img src="img/kancing.png">
 						<h3>Pembahan Aksesoris</h3>
 						<p> Harga : Rp 5.000 - Rp 30.000</p>
 						<p> Estimasi : 2-3 Hari </p>
@@ -46,7 +46,7 @@
 				</div>
 				<div class="col-md-3">
 					<div class="block block-grey2 block-center block-image block-border">
-						<img src="img/saku.jpg">
+						<img src="img/saku.png">
 						<h3>Pembahan Saku</h3>
 						<p> Harga : Rp 5.000 - Rp 30.000</p>
 							<p> Estimasi : 2-3 Hari </p>
@@ -63,7 +63,7 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="block block-light block-center block-image block-border">
-						<img src="img/k-panjang.png">
+						<img src="img/kemeja-l.png">
 						<h3>Kemeja Panjang</h3>
 							<p> Harga : Rp 80.000 </p>
 							<p> Estimasi : 7 Hari </p>
@@ -79,8 +79,8 @@
 				</div>
 				<div class="col-md-3">
 					<div class="block block-light block-center block-image block-border">
-						<img src="img/k-koko.png">
-						<h3>Koko</h3>
+						<img src="img/kemeja-p.png">
+						<h3>Kemeja Wanita</h3>
 						<p> Harga : Rp 75.000 </p>
 						<p> Estimasi : 7 Hari </p>
 					</div>
@@ -145,7 +145,7 @@
 					<div class="block block-grey2 block-center block-image block-border">
 						<img src="img/kargo.png">
 						<h3>Celana Cargo</h3>
-						<p> Harga : Rp 55.000 </p>
+						<p> Harga : Rp 85.000 - Rp 120.000</p>
 						<p> Estimasi : 7-12 hari </p>
 					</div>
 				</div>
