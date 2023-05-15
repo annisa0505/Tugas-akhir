@@ -28,10 +28,10 @@
 			</div>
 			<div class="collapse navbar-collapse">
 			  <ul class="nav navbar-nav">
-				<li class="active"><a href="index.html">Home</a></li>
-				<li><a href="promo.html">Promo</a></li>
-				<li><a href="info.html">Info</a></li>
-				<li><a href="contact.html">Contact</a></li>
+				<li class="active"><a href="home.php">Home</a></li>
+				<li><a href="promo.php">Promo</a></li>
+				<li><a href="info.php">Info</a></li>
+				<li><a href="contact.php">Contact</a></li>
 			  </ul>
 			  <ul class="nav navbar-nav navbar-sub pull-right">
 				<li><button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#register" style="margin-top: 15px; margin-right: 20px;">Register</button></li>
