@@ -76,8 +76,8 @@
 					  <li> Lingkar Dada (LD)  Lingkar dada melingkar + 1 cm.</li>
 					  <li> Lebar Bahu (LB) Lebar bahu lengan kiri sampai kanan.</li>
 					  <li> Lingkar Pinggang (LP) Meteran di ukurkan ke sekeliling pinggang + 1 sd 2cm.</li>
-					  <li> Panjang atasan/Baju (PB)  Dari ujung pundak sampai ke ujung bawah sesuai panjang yang diinginkan.</li>
 					  <li> Panjang Lengan (PL) Panjang tangan sampai panjang yang diinginkan baik lengan panjang maupun lengan pendek.</li>
+					  <li> Panjang atasan/Baju (PB)  Dari ujung pundak sampai ke ujung bawah sesuai panjang yang diinginkan.</li>
 					</ul><br>
 				<h5> Ukuran Bawahan </h5>
 					<ul>
